@@ -1,7 +1,7 @@
 import firebase from "firebase";
 
 var firebaseConfig = {
-  apiKey: "Your_api_key",
+  apiKey: "ASzaSyD1UqTY_ias5sJ9st7cUqY2KewZJF-ySpk",
   authDomain: "locater-bf776.firebaseapp.com",
   databaseURL: "https://locater-bf776.firebaseio.com",
   projectId: "locater-bf776",
